@@ -32,6 +32,7 @@ A Java Spring Boot REST API application for managing doctors, patients, and appo
 ```
 
 doctor-appointment-system/
+
 ├──src/main/java/com/example/doctor\_appointment\_system/
 │    ├── controller/   # REST Controllers
 │    ├── entity/       # JPA Entities
