@@ -38,12 +38,17 @@ doctor-appointment-system/
 │    ├── repository/   # Spring Data Repositories
 │    ├── service/      # Business logic
 │    └── DoctorAppointmentSystemApplication.java
+
 ├── src/main/resources/
 │    ├── application.properties.example
 │    └── application.properties (local only, not committed)
+
 ├── doctor\_db.sql      # MySQL database dump
+
 ├── doctor\_appointment\_system\_postman\_collection\_full\_crud.json
+
 ├── pom.xml
+
 └── README.md
 
 ````
