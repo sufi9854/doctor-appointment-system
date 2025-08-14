@@ -1,0 +1,25 @@
+# Maven / target
+/target/
+/!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+/.idea/
+/*.iml
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Credentials / local config
+/src/main/resources/application.properties
+
+# Database dumps (optional to include)
+# doctor_db.sql   <-- uncomment if you want to commit the dump
+
+# node / others (if present)
+node_modules/
+
